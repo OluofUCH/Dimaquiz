@@ -103,9 +103,7 @@ h3{
     transition: ease-out 1s;
 }
 
-#head5{
-    display: none;
-}
+
 @media only screen and (max-width: 900px) {
     body{
         background-image: none;
